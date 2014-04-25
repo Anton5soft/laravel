@@ -1,0 +1,1 @@
+/www/laravel/blog/app/views/posts/show.blade.php
